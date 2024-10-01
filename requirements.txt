@@ -1,0 +1,4 @@
+torch==2.4.1
+transformers==4.44.2
+timm==1.0.9
+yolov5==7.0.13
